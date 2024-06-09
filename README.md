@@ -17,7 +17,6 @@ This project involves the visualization of a double pendulum system using Python
 
 ## Usage
 To use this project, follow these steps:
-1. Clone the repository: `git clone https://github.com/your-username/your-repository.git`
-2. Navigate to the project directory: `cd your-repository`
-3. Run the main script: `python main.py`
+1. Clone the repository: `git clone https://github.com/ledaniel0/DoublePendulum.git`
+2. Navigate to the project directory: `cd DoublePendulum`
 
